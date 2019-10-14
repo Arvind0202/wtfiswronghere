@@ -1,1 +1,1 @@
-Variable num2 was not present
+Variable num2 was not present in conf.py
