@@ -17,8 +17,7 @@ def fizzbuzz():
     # we will make our script 'tighter' in one of coming exercises
     three_mul = 'fizz'
     five_mul = 'buzz'
-    #'with open('c:/Users/vino/code/wtfiswronghere/05_challenge/myfile.txt','r') as f:
-    with open('myfile.txt','r') as f:
+    with open('c:/Users/vino/code/wtfiswronghere/05_challenge/myfile.txt','r') as f:
     #f=open("myfile.txt","r")
         print('i have created')
         num1 = int(f.readline())   
